@@ -1,0 +1,10 @@
+# Rest Architecture
+
+## What is Rest?
+REST is an acronym for Representational State Transfer. It is an architectural style used for designing network-based applications,
+especially web services. It defines a set of rules and constraints that allow systems to communicate over the internet in a simple, scalable, and lightweight way.
+During the development phase, API developers can implement REST in a variety of ways.x
+
+## Architectural Properties
+REST is based on the idea that everything is a resource, and each resource is identified by a unique URI (Uniform Resource Identifier). 
+The client interacts with the server by sending HTTP requests, and the server returns a representation of the resource (usually in JSON or XML format).
